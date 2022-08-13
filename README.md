@@ -3,7 +3,7 @@ Data Visualization, Data Analysis, Tableau
 
 
 ### Objective ###
-Perform Web Scraping to extract police deaths data. Clean the extracted data and perform data analysis.
+analyze which demographics voted for Donald Trump and Joe Biden in the 2020 Presidential Election.
 
 ### Method ###
  - Perform the needed data cleaning steps
