@@ -3,7 +3,7 @@ Data Visualization, Data Analysis, Tableau
 
 
 ### Objective ###
-analyze which demographics voted for Donald Trump and Joe Biden in the 2020 Presidential Election.
+Analyze which demographics voted for Donald Trump and Joe Biden in the 2020 Presidential Election.
 
 ### Method ###
  - Perform the needed data cleaning steps
